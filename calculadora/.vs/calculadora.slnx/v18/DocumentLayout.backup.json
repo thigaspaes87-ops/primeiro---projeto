@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69000D05-24C5-4749-AEEF-745416DCD0B3}|calculadora\\calculadora.csproj|c:\\users\\instrutor\\documents\\github\\primeiro---projeto\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{69000D05-24C5-4749-AEEF-745416DCD0B3}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|calculadora\\calculadora.csproj|c:\\users\\instrutor\\documents\\github\\primeiro---projeto\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|calculadora\\calculadora.csproj|c:\\users\\instrutor\\documents\\github\\primeiro---projeto\\calculadora\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1B9FF9-CF40-1E48-D7A0-0BF70034C4E7}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "calculadora\\Form1.cs",
-              "ToolTip": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\calculadora\\Form1.cs [Design]",
-              "RelativeToolTip": "calculadora\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\calculadora\\Form1.cs [Projeto]",
+              "RelativeToolTip": "calculadora\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T00:23:45.646Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-29T00:41:43.764Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Instrutor\\Documents\\GitHub\\primeiro---projeto\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "calculadora\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T00:41:04.234Z",
+              "EditorCaption": ""
             }
           ]
         }
